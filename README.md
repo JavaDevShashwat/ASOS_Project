@@ -1,7 +1,9 @@
 # ASOS_Project
 
-In construct 2nd week with Masai School we were randomly alloted in a team of 3 and give a website to clone. The website name is ASOS. We were given a week of time to completely clone the website using HTML, CSS, Vanilla Script. 
-For checking the features of thhe site we can use Shirts section in the Clothing category on navbar.
+In construct 2nd week with Masai School we were randomly alloted in a team of 3 and give a website to clone. The website name is ASOS. We were given a week of time to completely clone the website using HTML, CSS, Vanilla Script.
+
+To check the features of the site we can use Shirts section in the Clothing category on navbar.
+
 [Live site on Netlify](https://wonderful-ganache-e37703.netlify.app/)
 
 My group members name :
